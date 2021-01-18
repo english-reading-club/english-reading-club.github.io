@@ -1,0 +1,43 @@
+---
+title: "English Reading Club"
+baseURL: "https://english-reading-club.github.io/"
+theme: "zen"
+languageCode: "en-GB"
+enableGitInfo: true
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Your Name"
+  url: "https://example.org/somepage"
+  avatar: "path/to/some-image.jpg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "info@example.org"
+  copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
+  description: "The zen theme for Hugo example site."
+  dateformat: "2 January, 2006"
+  favicon: "logo.png"
+  feedlinks: true
+  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  icon: "logo.png"
+  image: "logo.png"
+  imageMaxWidth: 400
+  mobileMenu: true
+  poweredby: false
+  sidebar: true
+  submitted: true
