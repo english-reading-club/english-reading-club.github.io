@@ -27,13 +27,17 @@ outputs:
   section: ["HTML","RSS", "JSON"]
 
 params:
+  # logo: false
+  mainSections:
+    - "news"
+    - "notes"
   contact: "info@example.org"
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   description: "The zen theme for Hugo example site."
   dateformat: "2 January, 2006"
   favicon: "logo.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  footer: "Powered by [Hugo](https://gohugo.io/), [Zen theme](https://github.com/frjo/hugo-theme-zen) and [GitHub](https://github.com/english-reading-club/english-reading-club.github.io)."
   icon: "logo.png"
   image: "logo.png"
   imageMaxWidth: 400
