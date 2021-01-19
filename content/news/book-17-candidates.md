@@ -3,7 +3,6 @@ title: "Book 17 Candidates"
 date: 2021-01-19T10:01:03+08:00
 ---
 
-持续更新的下一本书意向清单，欢迎随时添加: [SAP Excel Online](⁨https://sap.sharepoint.com/:x:/t/DBSLibrary/EYilodtqMDNBhDhV-L3p7-4BxOBwdV5igM_M9VV1surAvw?e=BtiIVt⁩)
 
 
 ## Book 17: Fiction
@@ -29,3 +28,5 @@ Buy:
 ## ebook Preview
 
 - [SAP Sharepoint](https://sap.sharepoint.com/teams/EnglishReadingClubChina/Shared%20Documents/Book%20Candidates)
+
+- 持续更新的下一本书意向清单，欢迎随时添加: [SAP Excel Online](https://sap.sharepoint.com/teams/DBSLibrary/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={DBA1A588-306A-4133-8438-55F8BDE9EFEE})
