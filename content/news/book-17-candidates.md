@@ -8,7 +8,7 @@ date: 2021-01-19T10:01:03+08:00
 
 ## Book 17: Fiction
 
-### The Sense of an Ending: 
+### Candidate 1: The Sense of an Ending: 
 ```
 Julian Barnes - The Sense of an Ending   (2011).pdf
 Julian Barnes - The Sense of an Ending  -Jonathan Cape (2011).epub
@@ -17,7 +17,7 @@ Julian Barnes - The Sense of an Ending  -Jonathan Cape (2011).epub
 Buy: 
 - [Amazon](https://www.amazon.com/Complete-Maus-Art-Spiegelman/dp/0679406417/ref=sr_1_1?dchild=1&keywords=Maus&qid=1611022125&s=books&sr=1-1)
 
-### The Complete Maus: A Survivor's Tale
+### Candidate 2: The Complete Maus: A Survivor's Tale
 ```
 Art Spiegelman - Maus _ A Survivor's Tale_ 2. And Here My Troubles Began  -Pantheon (1992).pdf
 Art Spiegelman - Maus_ A Survivor's Tale_ 1. My Father Bleeds History  -Pantheon (1986).pdf
