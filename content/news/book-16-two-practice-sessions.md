@@ -7,8 +7,8 @@ Build the Buddy system for the 90-day life
  
 # Feb 3, 2020 (Sprint 1)
 
-Duration: 1 hour
-Participants: 5 - 6 people 
+- Duration: 1 hour
+- Participants: 5 - 6 people 
 
 ## before this session: 
 - writing letters
