@@ -1,6 +1,6 @@
 ---
-title: "Agenda for our next two practice sessions"
-date: 2021-01-19T10:01:03+08:00
+title: "Agenda for our next (also the last) two sessions: Pracice"
+date: 2021-01-27T12:19:43+08:00
 ---
 
 Build the Buddy system for the 90-day life
