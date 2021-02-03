@@ -22,6 +22,6 @@ Build the Buddy system for the 90-day life
 
 
 # Feb 10, 2020 (Sprint 2)
-- Part 1 (40min): Present our team (the team name, describe your first start action), 5 min, half an hour or more, to find and convince another guy to be your buddy
+- Part 1 (40min): Present our team (the team name, describe your first starting action), 5 min, half an hour or more, to find and convince another guy to be your buddy
 - Part 2 (20min): Discuss
 - Part 3: Vote for the winner team
