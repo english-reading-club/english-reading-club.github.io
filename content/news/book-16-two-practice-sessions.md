@@ -5,7 +5,7 @@ date: 2021-01-27T12:19:43+08:00
 
 Build the Buddy system for the 90-day life
  
-# Feb 3, 2020 (Sprint 1)
+# Feb 3, 2020 (Week 1)
 
 - Duration: 1 hour
 - Participants: 5 - 6 people 
@@ -21,7 +21,11 @@ Build the Buddy system for the 90-day life
 - Part 3: We choose our buddy, make a team (2 or 3 members in a team)
 
 
-# Feb 10, 2020 (Sprint 2)
-- Part 1 (40min): Present our team (the team name, describe your first starting action), 5 min, half an hour or more, to find and convince another guy to be your buddy
+# Feb 10, 2020 (Week 2)
+- Part 1 (40min): Present our team (the team name, describe your first starting action), 5 min, half an hour or more 
 - Part 2 (20min): Discuss
 - Part 3: Vote for the winner team
+## Teams
+- Shukka & Mia
+- Mike & Hongyan
+- Jizu & Giselle

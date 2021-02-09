@@ -38,6 +38,5 @@ Now coming back to our 90-day life challenge, you can do the same thing as you d
 
 You see, if your plan doesn't go well, it's not a big problem -- JUST give it another shot!
 
-Author: Jizu SUN
 
-Feb 3, 2021
+Author: [Jizu SUN](https://linkedin.com/in/jizusun)
