@@ -3,6 +3,9 @@ title: "Just Crashed ? Give it a 3-step Fix!"
 date: 2021-02-03T12:16:03+08:00
 ---
 
+## Summary
+
+This is a prepared speech in [this practice session](/notes/book-16-practice-session-1/)
 
 ![Windows 10 blue screen](/windows-10-bluescreen.png)
 
