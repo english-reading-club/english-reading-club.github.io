@@ -32,9 +32,10 @@ participants: ['Hongyan', 'Mia', 'Giselle', 'Shukka', 'Guests']
 - Leader: Hongyan
 - Dream big, start small
 - Finish reciting 27 poems in 90 days
-- To be added: Slides from Mia
+- [Slides from Mia](https://sap.sharepoint.com/teams/EnglishReadingClubChina/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={4DC554A2-E537-49AC-B41F-C13CAF142152})
 
 
+<iframe src="https://sap.sharepoint.com/teams/EnglishReadingClubChina/_layouts/15/Doc.aspx?sourcedoc={4dc554a2-e537-49ac-b41f-c13caf142152}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ## Teams 3: SWI (Sports, Writing, and Inspiration)
 - Leader: Giselle

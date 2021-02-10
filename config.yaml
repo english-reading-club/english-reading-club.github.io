@@ -22,6 +22,13 @@ outputFormats:
     isPlainText: true
     notAlternative: true
 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 outputs:
   home: ["HTML","RSS", "JSON", "SearchIndex"]
   section: ["HTML","RSS", "JSON"]
