@@ -22,10 +22,10 @@ Build the Buddy system for the 90-day life
 
 
 # Feb 10, 2020 (Week 2)
-- Part 1 (40min): Present our team (the team name, describe your first starting action), 5 min, half an hour or more 
+- Part 1 (40min): Present our team (the team name, describe your first starting action), 10 min, half an hour or more 
 - Part 2 (20min): Discuss
 - Part 3: Vote for the winner team
 ## Teams
-- Shukka & Mia
-- Mike & Hongyan
+- Shukka & Mia (Giselle)
+- Mike, Hongyan & Mia ??? 
 - Jizu & Giselle
