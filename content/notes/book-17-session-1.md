@@ -1,6 +1,6 @@
 ---
-title: "Until p.20 | Book 17 The sense of the Ending"
-date: 2021-01-27T12:19:43+08:00
+title: "Book 17 The sense of the Ending | p1 - p20"
+date: 2021-02-24gT12:19:43+08:00
 host: "katniss"
 participants: ["Jeff", "Hongyan", "Shuuka", "Mia", "Sasha", "Kitniss"]
 note-taking: "Jizu"
@@ -36,3 +36,7 @@ note-taking: "Jizu"
 - Shall we really seek for the true fact (history)?
     - certain level of skepticism
 - uncertainty principle，又译测不准原理
+
+## Next session:
+- Read until page 40
+> As you can imagine, I enjoyed the bit about his moral scruples ... Or rather, my memory now of my reading then of what was happening at the time.
