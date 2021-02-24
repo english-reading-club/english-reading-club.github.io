@@ -1,6 +1,6 @@
 ---
-title: "Book 17 The sense of the Ending | p1 - p20"
-date: 2021-02-24gT12:19:43+08:00
+title: "Book 17 The Sense of an Ending | p1 - p20"
+date: 2021-02-24T12:19:43+08:00
 host: "katniss"
 participants: ["Jeff", "Hongyan", "Shuuka", "Mia", "Sasha", "Kitniss"]
 note-taking: "Jizu"
