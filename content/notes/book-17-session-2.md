@@ -28,7 +28,7 @@ Mar 3
 ## Key term for further info:
 
 - Unreliable narrator , 举例：了不起的盖茨比
-- counterculture movement 反主流文化 1960s https://baike.baidu.com/item/%E5%8F%8D%E4%B8%BB%E6%B5%81%E6%96%87%E5%8C%96/7290804?fr=aladdin
+- [counterculture movement 反文化运动 1960s](https://baike.baidu.com/item/%E5%8F%8D%E4%B8%BB%E6%B5%81%E6%96%87%E5%8C%96/7290804?fr=aladdin)
 
 ## What do you think Tony as a boy friend?
 
@@ -68,3 +68,6 @@ Photo with Veronica and Tony’s friends without Tony.
 - 大学学习法语，哲学，等
 - 参与用词精准的工作，比如non fiction，字典编撰
 - 写过四本detective story
+
+
+## Next session
