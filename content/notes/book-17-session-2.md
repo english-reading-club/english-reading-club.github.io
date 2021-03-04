@@ -71,3 +71,6 @@ Photo with Veronica and Tony’s friends without Tony.
 
 
 ## Next session
+
+Until 
+> ‘In other words, don’t let her start thinking I’m some kind of loony.’
