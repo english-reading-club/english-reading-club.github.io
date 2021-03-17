@@ -1,5 +1,5 @@
 ---
-title: "Book 17 Session 4 | The Sense of an Ending (p41 - p71)"
+title: "Book 17 Session 4 | The Sense of an Ending"
 date: 2021-03-17T12:19:43+08:00
 host: "Hongyan"
 participants: ["Jizu", "Sasha"]
