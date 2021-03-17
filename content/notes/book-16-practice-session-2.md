@@ -11,7 +11,7 @@ participants: ['Hongyan', 'Mia', 'Giselle', 'Shukka', 'Guests']
 - Measure: 
     - At least one cert during the 90 days
 - Two parts
-    - Learning: OpenSAP, Leanring Hub
+    - Learning: OpenSAP, Learning Hub
     - Review: 
 - Estimate efforts
     - Free learning 
