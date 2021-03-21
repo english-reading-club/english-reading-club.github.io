@@ -10,7 +10,7 @@ note-taking: "Jizu"
 ## Until page 20
 
 ### Background 
-- The author is famous: Julian Barnes https://en.wikipedia.org/wiki/Julian_Barnes
+- The author is famous: [Julian Barnes](https://en.wikipedia.org/wiki/Julian_Barnes)
 
 ### Questions
 - Genre: 
