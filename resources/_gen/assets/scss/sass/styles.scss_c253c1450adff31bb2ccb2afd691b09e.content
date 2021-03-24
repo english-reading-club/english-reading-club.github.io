@@ -860,4 +860,9 @@ figure.podcast audio {
   .anchor-header:focus .anchor-link:focus, .anchor-header:focus .anchor-link:hover, .anchor-header:hover .anchor-link:focus, .anchor-header:hover .anchor-link:hover {
     opacity: 1; }
 
+blockquote {
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: .25em solid #dfe2e5; }
+
 /*# sourceMappingURL=styles.css.map */

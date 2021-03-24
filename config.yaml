@@ -22,7 +22,6 @@ outputFormats:
     isPlainText: true
     notAlternative: true
 
-
 markup:
   goldmark:
     renderer:
@@ -39,7 +38,7 @@ params:
     - "news"
     - "notes"
   contact: "info@example.org"
-  copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
+  copyright: "This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)."
   description: "The zen theme for Hugo example site."
   dateformat: "2 January, 2006"
   favicon: "logo.png"
