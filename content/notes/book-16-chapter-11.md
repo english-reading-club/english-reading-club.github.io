@@ -4,7 +4,6 @@ date: 2021-01-18T18:49:10+08:00
 participants: ['Hongyan']
 chapter: "Chapter 11: The Four Life Areas"
 book: "The 90 Day Life"
-
 ---
 
 
