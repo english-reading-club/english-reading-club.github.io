@@ -863,6 +863,7 @@ figure.podcast audio {
 blockquote {
   padding: 0 1em;
   color: #6a737d;
-  border-left: .25em solid #dfe2e5; }
+  border-left: .25em solid #dfe2e5;
+  margin: 0; }
 
 /*# sourceMappingURL=styles.css.map */
