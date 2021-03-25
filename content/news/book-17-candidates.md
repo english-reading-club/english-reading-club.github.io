@@ -1,9 +1,8 @@
 ---
 title: "Book 17 Candidates"
 date: 2021-01-19T10:01:03+08:00
+tags: ["The Sense of an Ending"]
 ---
-
-
 
 ## Book 17: Fiction
 

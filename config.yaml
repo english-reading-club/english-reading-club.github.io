@@ -27,6 +27,9 @@ markup:
     renderer:
       unsafe: true
 
+taxonomies:
+  category: categories
+  tag: tags
 
 outputs:
   home: ["HTML","RSS", "JSON", "SearchIndex"]
@@ -43,7 +46,7 @@ params:
   dateformat: "2 January, 2006"
   favicon: "logo.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/), [Zen theme](https://github.com/frjo/hugo-theme-zen) and [GitHub](https://github.com/english-reading-club/english-reading-club.github.io)."
+  footer: "Powered by [Hugo](https://gohugo.io/), [fork of Zen theme](https://github.com/jizusun/hugo-theme-zen) and [GitHub](https://github.com/english-reading-club/english-reading-club.github.io)."
   icon: "logo.png"
   image: "logo.png"
   imageMaxWidth: 400

@@ -1,9 +1,10 @@
 ---
-title: "Book 17 Session 2 | The Sense of an Ending (p21 - p41)"
+title: "Book 17 Session 2"
 date: 2021-03-03T12:19:43+08:00
 host: "katniss"
 participants: ["Jeff", "Hongyan", "Shuuka", "Mia", "Sasha", "Kitniss"]
 note-taking: "Hongyan"
+tags: ["The Sense of an Ending"]
 ---
 
 Mar 3

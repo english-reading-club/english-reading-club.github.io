@@ -1,9 +1,8 @@
 ---
 title: "Book 18 Candidates"
 date: 2021-03-25T10:01:03+08:00
+tags: ["Educated"]
 ---
-
-
 
 ## Book 18: Non-Fiction
 

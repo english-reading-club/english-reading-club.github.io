@@ -1,9 +1,11 @@
 ---
-title: "Book 17 Session 5 | The Sense of an Ending"
+title: "Book 17 Session 5"
 date: 2021-03-24T12:19:43+08:00
 host: "Katniss"
 participants: ["Jizu", "Giselle", "Fancy", "Mia", "Shuuka", "Hongyan", "Samantha"]
 note-taking: "Jizu"
+tags: ["The Sense of an Ending"]
+
 ---
 
 ## from Margaret
