@@ -13,7 +13,9 @@ title: "About"
 - [2020 yearly summary](/news/2020-club-summary/)
 -  MS Team group: [link](https://teams.microsoft.com/l/team/19%3aa80b05067aa14c5f856901fcb797718c%40thread.tacv2/conversations?groupId=f9638959-ebe9-4902-9a05-0140f56a1928&tenantId=42f7676c-f455-423c-82f6-dc2d99791af7)
 - Jam group: [link](https://jam4.sapjam.com/groups/OTg12I6jQYVWudS41GXQeD/overview_page/0HnpUGoPzTjyRZbxdw6oQu)
-- Wechat group: [Chat with Hongyan on MS teams](https://teams.microsoft.com/l/chat/0/0?users=hongyan.shao@sap.com)
+- Wechat group: [Chat with Hongyan on MS teams](https://teams.microsoft.com/l/chat/0/0?users=hongyan.shao@sap.com) or scan the QR Code if not expired
+
+> ![](/qrcode-wechat-group.jpg)
 
 
 ## Want to join us?
@@ -23,6 +25,8 @@ It's never too late to join our English Reading Club!
 We meet **every Weds. 12:15-13:00** at **PVG12 11.4**, also with video conferencing.
 
 Please join [our distribution list](https://profiles.wdf.sap.corp/groups/60122e300e5e66027e880d93/users) to receive the MS Teams invitation for the coming week.
+
+
 
 ## Shanghai Reading Club history board:
 
