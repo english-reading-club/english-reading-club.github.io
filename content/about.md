@@ -7,7 +7,7 @@ title: "About"
 ## SAP English Reading Club 
 
 
-> "The club is what it is because of the members. Lots of interesting, open discussions with a great group of people. The atmosphere is relaxed yet focused. You can tell that people really get into the books and give thought to what they're reading. Reading is also the best way to improve your English--whether you’re a native-speaker or not.”  (McMaster, Jeffrey )​
+> "The club is what it is because of the members. Lots of interesting, open discussions with a great group of people. The atmosphere is relaxed yet focused. You can tell that people really get into the books and give thought to what they're reading. Reading is also the best way to improve your English--whether you’re a native-speaker or not.”  (McMaster, Jeffrey)​
 
 
 - [2020 yearly summary](/news/2020-club-summary/)
@@ -15,7 +15,7 @@ title: "About"
 - Jam group: [link](https://jam4.sapjam.com/groups/OTg12I6jQYVWudS41GXQeD/overview_page/0HnpUGoPzTjyRZbxdw6oQu)
 - Wechat group: [Chat with Hongyan on MS teams](https://teams.microsoft.com/l/chat/0/0?users=hongyan.shao@sap.com) or scan the QR Code if not expired
 
-> ![](/qrcode-wechat-group.jpg)
+> ![](/qrcode-wechat-group.png)
 
 
 ## Want to join us?

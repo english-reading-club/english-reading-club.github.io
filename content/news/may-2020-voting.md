@@ -10,6 +10,13 @@ toc: true
 
 This time we will try to vote for our upcoming fictions and non-fictions candidates, and then read those which earn more than half of total votes.
 
+## Where to vote
+
+Not decided yet, most likely we use WeChat Mini-app for voting.
+
+Will notify the WeChat Group as soon as the decision is made.
+
+![wechat group](/qrcode-wechat-group.png)
 
 ## Some criteria
 
