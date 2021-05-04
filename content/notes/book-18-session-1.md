@@ -70,6 +70,7 @@ for the Days of Abomination
 > They’re freedom fighters. They wouldn’t let the Government brainwash their kids in them public schools, so the Feds came after them.
 
 
+
 - https://www.sparknotes.com/lit/educated/
 - https://www.litcharts.com/lit/educated
 
