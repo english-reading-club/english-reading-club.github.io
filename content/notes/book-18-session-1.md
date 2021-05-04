@@ -3,7 +3,7 @@ title: "Book 18 Session 1"
 date: 2021-04-28T12:19:43+08:00
 host: "Jizu"
 participants: ["Jizu", "Giselle", "Semantha", "Mia", "Shuuka", "Hongyan", "Fancy"]
-note-taking: "Jizu"
+author: "Jizu"
 tags: ["Educated"]
 toc: true
 ---

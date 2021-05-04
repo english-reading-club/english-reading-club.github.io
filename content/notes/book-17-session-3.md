@@ -3,7 +3,7 @@ title: "Book 17 Session 3"
 date: 2021-03-10T12:19:43+08:00
 host: "katniss"
 participants: ["Jizu", "Hongyan"]
-note-taking: "Jizu"
+author: "Jizu"
 tags: ["The Sense of an Ending"]
 ---
 

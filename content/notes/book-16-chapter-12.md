@@ -3,7 +3,7 @@ title: "Book 16 Chapter 12"
 date: 2021-01-20T12:18:14+08:00
 participants: ["Hongyan", "Shuuka", "Jizu", "Mia", "Mike"]
 host: "Shuuka"
-note-taking: "Jizu" 
+author: "Jizu" 
 ---
 
 ## Stage by stage view

@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 host: "foo"
-note-taking: "bar"
+author: "bar"
 participants: []
 tags: []
 toc: true

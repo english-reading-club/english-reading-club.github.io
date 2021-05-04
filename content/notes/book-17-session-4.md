@@ -3,7 +3,7 @@ title: "Book 17 Session 4"
 date: 2021-03-17T12:19:43+08:00
 host: "Hongyan"
 participants: ["Jizu", "Sasha"]
-note-taking: "Jizu"
+author: "Jizu"
 tags: ["The Sense of an Ending"]
 ---
 
