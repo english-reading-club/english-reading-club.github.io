@@ -5,11 +5,11 @@ host: "Jizu"
 participants: ["Jizu", "Giselle", "Semantha", "Mia", "Shuuka", "Hongyan", "Fancy"]
 note-taking: "Jizu"
 tags: ["Educated"]
-
+toc: true
 ---
 
 
-## Game
+# Game
 
 We split the 1st chapter into 3 parts, and 3 teams
 
@@ -75,6 +75,6 @@ for the Days of Abomination
 - https://www.litcharts.com/lit/educated
 
 
-## Next session
+# Next session
 
 Finish the 2nd chapter

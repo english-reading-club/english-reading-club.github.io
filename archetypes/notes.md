@@ -5,6 +5,7 @@ host: "foo"
 note-taking: "bar"
 participants: []
 tags: []
+toc: true
 ---
 
 ## Notes
