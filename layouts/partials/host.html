@@ -1,0 +1,14 @@
+{{ with $.Param "host" }}
+    <div class="author"> Host: {{ . }}</div>
+{{ end -}}
+
+
+<div class="tags">
+Participants{{ i18n "Host" }}:
+<ul>
+    {{ range .Params.participants -}}
+    <li>{{ . }}</li>
+    {{ end -}}
+</ul>
+</div>
+

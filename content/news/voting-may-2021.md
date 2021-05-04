@@ -1,7 +1,7 @@
 ---
 title: "Vote for Upcoming Books - May 2021"
 date: 2021-05-04T08:01:03+08:00
-tags: []
+tags: ["Vote"]
 toc: true
 author: "Jizu"
 ---
