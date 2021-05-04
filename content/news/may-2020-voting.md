@@ -1,5 +1,5 @@
 ---
-title: "May 2020 - Vote for Candidates"
+title: "May 2020 - Vote for Upcoming Books"
 date: 2021-05-04T08:01:03+08:00
 tags: []
 toc: true
