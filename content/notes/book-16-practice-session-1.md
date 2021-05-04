@@ -9,7 +9,7 @@ date: 2021-02-03T12:26:54+08:00
 ### 1. Mia: SAP Learning Day
 - Eat boiled eggs
 
-### 2. Shukka: to get a SAP certification  
+### 2. Shuuka: to get a SAP certification  
 - In SAP, you can take for free
 - SAP welfare
 - Tips from colleagues: question pool, three hours, 80 questions
@@ -40,6 +40,6 @@ date: 2021-02-03T12:26:54+08:00
     - Ask for help
 
 ## Teams
-- Shukka & Mia
+- Shuuka & Mia
 - Mike & Hongyan
 - Jizu & Giselle

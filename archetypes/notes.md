@@ -3,8 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 host: "foo"
 author: "bar"
-participants: []
-tags: []
+participants: ["foo", "bar"]
+tags: ["book-name"]
 toc: true
 ---
 
@@ -14,4 +14,4 @@ toc: true
 ## Next session
 
 - Homework: Finish the 2nd chapter
-- Host: foo
+- Host Volunteer: foo

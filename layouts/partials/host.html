@@ -1,14 +1,25 @@
+
+<h2> Session Info </h2>
+
+<ul>
+
 {{ with $.Param "host" }}
-    <div class="author"> Host: {{ . }}</div>
+    <li class="author"> Host: {{ . }}</li>
 {{ end -}}
 
+{{ with $.Param "author" }}
+    <li class="author"> Note-taking: {{ . }}</li>
+{{ end -}}
 
-<div class="tags">
-Participants{{ i18n "Host" }}:
-<ul>
-    {{ range .Params.participants -}}
-    <li>{{ . }}</li>
-    {{ end -}}
+<li>
+    Participants{{ i18n "Host" }}:
+    <div class="tags">
+        <ul>
+            {{ range .Params.participants -}}
+            <li>{{ . }}</li>
+            {{ end -}}
+        </ul>
+    </div>
+</li>
+
 </ul>
-</div>
-

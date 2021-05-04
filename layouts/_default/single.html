@@ -16,11 +16,6 @@
 </aside>
 
 
-
-{{ with $.Param "author" }}
-    <span class="author" itemprop="author"> Note-taking: {{ . }}</span>
-{{ end -}}
-
 <div class="content">
 {{ .Content }}
 

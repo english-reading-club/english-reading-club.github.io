@@ -2,11 +2,11 @@
 title: "Book 16 Practice Session 2"
 date: 2021-02-10T12:26:06+08:00
 host: ['Jizu']
-participants: ['Hongyan', 'Mia', 'Giselle', 'Shukka', 'Guests']
+participants: ['Hongyan', 'Mia', 'Giselle', 'Shuuka', 'Guests']
 ---
 
 ## Teams 1: SAP Certification team
-- Leader: Shukka
+- Leader: Shuuka
 - Main goal: Get the certifications!
 - Measure: 
     - At least one cert during the 90 days
@@ -46,7 +46,7 @@ participants: ['Hongyan', 'Mia', 'Giselle', 'Shukka', 'Guests']
 
 ## Impressive
 - Hongyan
-    - Shukka team: actionable, clear target
+    - Shuuka team: actionable, clear target
     - SWI: cycling, writing
 - Jennifer (Guest)
     - Like sports very much, keep practicing to swim
@@ -56,7 +56,7 @@ participants: ['Hongyan', 'Mia', 'Giselle', 'Shukka', 'Guests']
     - Sub-goal
 - Thomas (Guest)
     - Goals can be shared, members can join several
-- Shukka
+- Shuuka
     - Didn't recite poems for years
     - Improve your life, culture, feelings...
 - Giselle
