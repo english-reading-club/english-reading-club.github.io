@@ -3,6 +3,7 @@ title: "Book 16 Practice Session 2"
 date: 2021-02-10T12:26:06+08:00
 host: ['Jizu']
 participants: ['Hongyan', 'Mia', 'Giselle', 'Shuuka', 'Guests']
+tags: ["The 90 Day Life"]
 ---
 
 ## Teams 1: SAP Certification team

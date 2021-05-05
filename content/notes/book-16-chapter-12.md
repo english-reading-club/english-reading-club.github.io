@@ -4,6 +4,7 @@ date: 2021-01-20T12:18:14+08:00
 participants: ["Hongyan", "Shuuka", "Jizu", "Mia", "Mike"]
 host: "Shuuka"
 author: "Jizu" 
+tags: ["The 90 Day Life"]
 ---
 
 ## Stage by stage view

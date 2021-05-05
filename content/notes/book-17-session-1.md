@@ -1,9 +1,9 @@
 ---
 title: "Book 17 Session 1"
 date: 2021-02-24T12:19:43+08:00
+author: "Jizu"
 host: "katniss"
 participants: ["Jeff", "Hongyan", "Shuuka", "Mia", "Sasha", "Kitniss"]
-author: "Jizu"
 tags: ["The Sense of an Ending"]
 ---
 

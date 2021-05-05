@@ -30,12 +30,14 @@ Please join [our distribution list](https://profiles.wdf.sap.corp/groups/60122e3
 
 ## Shanghai Reading Club history board:
 
-- 18th book [Educated: A Memoir"](/tags/educated/) from Apr 28 2021
-- 17th book [The Sense of an Ending](/tags/the-sense-of-an-ending/) from Feb 24, 2021
-- 16th book [The 90 Day Life: How to Live More in 3 Months Than You Have in 3 Years](https://www.amazon.com/dp/B079JG3D2W) from Dec 2 2020  
-- 15th book [The Joy Luck Club](https://www.amazon.com/dp/B004IYISSK) from Aug 12 2020  
-- 14th book “Say Nothing” from Apr 29th 2020
-- 13th book “Exhalation” from Jan 15th 2020
+Click the book title to filter out related blogs!
+
+- 18th book [*Educated: A Memoir*](/tags/educated/) from Apr 28 2021
+- 17th book [*The Sense of an Ending*](/tags/the-sense-of-an-ending/) from Feb 24, 2021
+- 16th book [*The 90 Day Life: How to Live More in 3 Months Than You Have in 3 Years*](/tags/the-90-day-life/) from Dec 2 2020  
+- 15th book *The Joy Luck Club* from Aug 12 2020  
+- 14th book *Say Nothing* from Apr 29th 2020
+- 13th book *Exhalation* from Jan 15th 2020
 - 12th book “Switch, How to change things when change is hard” from Oct 9th 2019
 - 11th book “What Alice Forgot” from Jul 24th 2019
 - 10th book “1984” from May 8th 2019
