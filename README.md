@@ -7,6 +7,11 @@
 git clone git@github.com:english-reading-club/english-reading-club.github.io.git
 cd english-reading-club.github.io
 git submodule update --init
+
+# Later when need to update the theme
+git submodule update --remote
+
+
 # Open with Visual Studio Code
 code english-reading-club.github.io 
 ```
@@ -16,6 +21,7 @@ code english-reading-club.github.io
 ```sh
 hugo new notes/book-foo-chapter-bar.md
 ```
+
 
 ## Refs
 - Hugo Theme: https://themes.gohugo.io/hugo-theme-zen/
