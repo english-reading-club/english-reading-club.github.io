@@ -47,7 +47,6 @@ toc: true
 - Money is the most important thing.
 - If you earn above an amount, doesn't make a different. (Survey)
 - How to spend the money? For eating or helping others
-## Q3: Why Judy's daughter, Maria was mentioned?
 
 > The next time the midwife came she brought her daughter Maria, who stood next to her mother, imitating her movements, with a baby wedged against her wiry nine-year-old frame. I stared hopefully at her. I hadn’t met many other girls like me, who didn’t go to school. I edged closer, trying to draw her attention, but she was wholly absorbed in listening to her mother, who was explaining how cramp bark and motherwort should be administered to treat post-birth contractions. Maria’s head bobbed in agreement; her eyes never left her mother’s face.
 
