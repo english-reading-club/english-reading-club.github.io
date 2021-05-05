@@ -8,10 +8,10 @@ tags: ["book-name"]
 toc: true
 ---
 
-## Notes
+# Notes
 
 
-## Next session
+# Next session
 
 - Homework: Finish the 2nd chapter
 - Host Volunteer: foo
