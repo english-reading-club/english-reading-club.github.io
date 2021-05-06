@@ -29,7 +29,7 @@ Please join [our distribution list](https://profiles.wdf.sap.corp/groups/60122e3
 
 
 ## Shanghai Reading Club history board:
-
+https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/
 Click the book title to filter out related blogs!
 
 - 18th book [*Educated: A Memoir*](/tags/educated/) from Apr 28 2021
