@@ -13,6 +13,7 @@ toc: true
 ## Chapter 5: Honest Dirt
 
 > That pace would never be possible in the public school. You can only do that at home, where you can sit down and really focus, with no distractions.
+
 > Morse Code
 
 ## Chapter 6: Shield and Buckler
