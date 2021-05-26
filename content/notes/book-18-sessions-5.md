@@ -1,9 +1,9 @@
 ---
 title: "Book 18 Sessions 5"
 date: 2021-05-26T09:55:14+08:00
-host: "foo"
-author: "bar"
-participants: ["foo", "bar"]
+host: "Giselle, Jizu"
+author: "Jizu"
+participants: []
 tags: ["Educated"]
 toc: true
 ---
