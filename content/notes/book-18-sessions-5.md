@@ -15,6 +15,7 @@ toc: true
 
 ## Chapter 8: Tiny Harlots
 
+[Litcharts - Chapter Summary & Analysis](https://www.litcharts.com/lit/educated/chapter-8-tiny-harlots)
 
 > har·lot | ˈhärlət |  **noun** *archaic* a prostitute.
 >
@@ -50,10 +51,64 @@ toc: true
 
 
 
-[Chapter Summary & Analysis](https://www.litcharts.com/lit/educated/chapter-8-tiny-harlots)
 
 ## Chapter 9: Perfect in His Generation
 
+[LitCharts - Summary and Analysis](https://www.litcharts.com/lit/educated/chapter-9-perfect-in-his-generations)
+
+
+### Dad called it Y2K.
+
+> “The summer I sang the lead for Annie it was 1999. My father was in serious preparedness mode. Not since I was five, and the Weavers were under siege, had he been so certain that the Days of Abomination were upon us.
+> 
+> Dad called it Y2K. On January 1, he said, computer systems all over the world would fail. There would be no electricity, no telephones. All would sink into chaos, and this would usher in the Second Coming of Christ.
+”
+
+> “Can’t they fix it?”
+> 
+> “Nope, can’t be done,” Dad said. “Man trusted his own strength, and his strength was weak.”
+
+### At the Worm Creek Opera House
+
+
+> “I’d never learned how to talk to people who weren’t like us—people who went to school and visited the doctor. Who weren’t preparing, every day, for the End of the World. Worm Creek was full of these people, people whose words seemed ripped from another reality. That was how it felt the first time the director spoke to me, like he was speaking from another dimension. All he said was, “Go find FDR.” I didn’t move.
+> 
+> He tried again. “President Roosevelt. FDR.”
+> 
+> “Is that like a JCB?” I said. “You need a forklift?”
+> 
+> Everyone laughed.”
+
+
+### A friend called Charlies
+
+
+> “I’m Charles,” he said. There was a pause while he waited for me to give my name, but I didn’t. “I saw you in the last play,” he said after a moment. “I wanted to tell you something.” I braced myself, for what I wasn’t sure, then he said, “I wanted to tell you that your singing is about the best I ever heard.”
+
+>  “Maybe,” I said, and he smiled. A few of his friends stepped into the wing and called to him. He stood and said goodbye, and I watched him join them, taking in the easy way they joked together and imagining an alternate reality in which I was one of them. I imagined Charles inviting me to his house, to play a game or watch a movie, and felt a rush of pleasure. But when I pictured Charles visiting Buck’s Peak, I felt something else, something like panic. What if he found the root cellar? What if he discovered the fuel tank? Then I understood, finally, what the rifle was for. That mighty barrel, with its special range that could reach from the mountain to the valley, was a defensive perimeter for the house, for our supplies, because Dad said we would be driving when everyone else was hotfooting it. We would have food, too, when everyone else was starving, looting. Again I imagined Charles climbing the hill to our house. But in my imagination I was on the ridge, and I was watching his approach through crosshairs.”
+
+
+> 
+
+
+### Y2K problem didn't happen
+
+> I waited for the screen to flicker and die. I was trying to take it all in, this last, luxurious moment—of sharp yellow light, of warm air flowing from the heater. I was experiencing nostalgia for the life I’d had before, which I would lose at any second, when the world turned and began to devour itself.
+> 
+> The longer I sat motionless, breathing deeply, trying to inhale the last scent of the fallen world, the more I resented its continuing solidity. […] Sometime after 1:30 I went to bed. I glimpsed Dad as I left, his face frozen in the dark, the light from the TV leaping across his square glasses.
+> 
+> He seemed smaller to me than he had that morning. The disappointment in his features was so childlike, for a moment I wondered how God could deny him this. He, a faithful servant, who suffered willingly just as Noah had willingly suffered to build the ark.
+> 
+> But God withheld the flood.
+
+## Themes
+
+### [Devoutness and Delusion](https://www.litcharts.com/lit/educated/themes/devoutness-and-delusion)
+
+
+### [Family, Abuse, and Entrapment](https://www.litcharts.com/lit/educated/themes/family-abuse-and-entrapment)
+
+### [Memory, History, and Subjectivity](https://www.litcharts.com/lit/educated/themes/memory-history-and-subjectivity)
 
 # Next session
 
