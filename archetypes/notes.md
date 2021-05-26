@@ -1,10 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-host: "foo"
-author: "bar"
-participants: ["foo", "bar"]
-tags: ["book-name"]
+host: "Giselle"
+author: "Jizu"
+participants: ["Hongyan", "Mia", "Shuuka" ]
+tags: ["Educated"]
 toc: true
 ---
 
@@ -13,5 +13,5 @@ toc: true
 
 # Next session
 
-- Homework: Finish the 2nd chapter
-- Host Volunteer: foo
+- Homework: Finish the ?nd chapter
+- Host Volunteer: foo & bar

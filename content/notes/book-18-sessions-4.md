@@ -23,5 +23,5 @@ toc: true
 
 # Next session
 
-- Homework: Finish Ch8 - Ch10
+- Homework: Finish Ch 7 - Ch9
 - Host Volunteer: Jizu, Giselle
