@@ -1,5 +1,6 @@
 # english-reading-club.github.io
 
+[ ![](https://github.com/english-reading-club/english-reading-club.github.io/actions/workflows/main.yml/badge.svg) ](https://github.com/english-reading-club/english-reading-club.github.io/actions/workflows/main.yml)
 
 ## Getting Started
 
