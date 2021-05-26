@@ -50,7 +50,7 @@ params:
   dateformat: "2 January, 2006"
   favicon: "logo.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/), [fork of Zen theme](https://github.com/jizusun/hugo-theme-zen) and [GitHub](https://github.com/english-reading-club/english-reading-club.github.io)."
+  footer: "Powered by [Hugo](https://gohugo.io/), [fork of Zen theme](https://github.com/jizusun/hugo-theme-zen) and [ ![](https://github.com/english-reading-club/english-reading-club.github.io/actions/workflows/main.yml/badge.svg) ](https://github.com/english-reading-club/english-reading-club.github.io/actions/workflows/main.yml) "
   icon: "logo.png"
   image: "logo.png"
   imageMaxWidth: 400
