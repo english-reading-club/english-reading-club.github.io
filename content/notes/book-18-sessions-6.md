@@ -29,12 +29,7 @@ His father will be the hero if he successfully predicted the catastrophy.
 
 - Chiropractor
 
-
-
-
-
-
 # Next session
 
-- Homework: Finish the ?nd chapter
+- Homework: Finish Ch11 & Ch12
 - Host Volunteer: foo & bar
