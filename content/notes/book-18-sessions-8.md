@@ -14,7 +14,7 @@ toc: true
 - `Siddle Lister` -> `Fish Eyes`
 
 ## Chapter 13
-- https://www.litcharts.com/lit/educated/chapter-13-silence-in-the-churches
+- [Chapter Summary](https://www.litcharts.com/lit/educated/chapter-13-silence-in-the-churches)
 
 > Shawn is systematically attempting to break Tara down and exert control over her by diminishing and even demonizing her.
 
