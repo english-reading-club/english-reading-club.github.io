@@ -66,7 +66,9 @@ Failed and tried again
 
 Full score to get A.
 
-Queen of long shot?
+> “I said it did. It was a long shot, but I was the queen of long shots. I called Charles. I told him I was coming to Idaho for Thanksgiving and I needed an algebra tutor. He said he would meet me at Buck’s Peak.”
+>
+> Excerpt From: Tara Westover. “Educated.” Apple Books. 
 
 
 
