@@ -3,7 +3,7 @@ title: "Book 18 Sessions 11"
 date: 2021-07-14T11:41:59+08:00
 host: "Shuuka"
 author: "Jizu"
-participants: ["Hongyan", "Mia", "Shuuka", "Semetha" ]
+participants: ["Hongyan", "Mia", "Shuuka", "Samatha" ]
 tags: ["Educated"]
 toc: true
 ---
@@ -30,7 +30,7 @@ toc: true
 # Next session
 
 - Homework: Finish the chapter 29
-- Host Volunteer: Semetha & Mia
+- Host Volunteer: Samatha & Mia
 
 
 # Notes
