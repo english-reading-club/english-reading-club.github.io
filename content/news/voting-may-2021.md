@@ -33,10 +33,9 @@ Will notify the WeChat Group as soon as the decision is made.
 # Candidates
 
 
-## [Non-Fiction Candidate 1] You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place, by Janelle Shane
+## [Non-Fiction 1, 273 pages] You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place, by Janelle Shane
 
 ![cover](https://m.media-amazon.com/images/P/B07PBVN3YJ.01._SCLZZZZZZZ_SX500_.jpg)
-(273 pages)
 
 > You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place is a 2019 nonfiction book by optics research scientist Janelle Shane. The book documents experiences the author and others have had with machine learning programs, and discusses what "intelligence" means in the context of "artificial intelligence" (AI).[1]
 > 
@@ -50,10 +49,9 @@ Will notify the WeChat Group as soon as the decision is made.
 >
 > Source: [Amazon](https://www.amazon.com/You-Look-Like-Thing-Love-ebook/dp/B07PBVN3YJ/)
 
-## [Non-fiction Candidate 2] You Are What You Read: A Practical Guide to Reading Well, by Robert DiYanni
+## [Non-fiction 2, 230 pages] You Are What You Read: A Practical Guide to Reading Well, by Robert DiYanni
 
 ![cover](https://images-na.ssl-images-amazon.com/images/I/41TyRwsPfxL._SX322_BO1,204,203,200_.jpg)
-(230 pages)
 
 > We are what we read, according to Robert DiYanni. Reading may delight us or move us; we may read for instruction or inspiration. But more than this, in reading we discover ourselves. We gain access to the lives of others, explore the limitless possibilities of human existence, develop our understanding of the world around us, and find respite from the hectic demands of everyday life. In You Are What You Read, DiYanni provides a practical guide that shows how we can increase the benefits and pleasures of reading literature by becoming more skillful and engaged readers.
 > 
@@ -65,10 +63,9 @@ Will notify the WeChat Group as soon as the decision is made.
 >
 > Source: [Princeton Press](https://press.princeton.edu/books/hardcover/9780691206783/you-are-what-you-read)
 
-## [Non-fiction Candidate 3] How to Talk So Kids Will Listen & Listen So Kids Will Talk, by Adele Faber and Elaine Mazlish
+## [Non-fiction 3, 370 pages] How to Talk So Kids Will Listen & Listen So Kids Will Talk, by Adele Faber and Elaine Mazlish
 
 ![cover](https://m.media-amazon.com/images/I/51mgKtaZ0rL.jpg)
-(370 pages)
 
 > “This parenting book actually made me a better parent.”—Lydia Kiesling, The New York Times
 >
@@ -79,10 +76,9 @@ Will notify the WeChat Group as soon as the decision is made.
 > Source: [Amazon](https://www.amazon.com/dp/B005GG0MXI/)
 
 
-## [Non-fiction Candidate 4] Crucial Conversations: Tools for Talking When Stakes are High, by Kerry Patterson, Al Switzler, Joseph Grenny, Ron McMillan 
+## [Non-fiction 4, 273 pages] Crucial Conversations: Tools for Talking When Stakes are High, by Kerry Patterson, Al Switzler, Joseph Grenny, Ron McMillan 
 
 ![cover](https://m.media-amazon.com/images/P/B005K0AYH4.01._SCLZZZZZZZ_SX500_.jpg)
-(273 pages)
 
 > **The New York Times and Washington Post bestseller that changed the way millions communicate**
 > 
@@ -93,10 +89,9 @@ Will notify the WeChat Group as soon as the decision is made.
 > Source: [Google Book](https://books.google.com/books/about/Crucial_Conversations_Tools_for_Talking.html?id=SDXVHRSFVMoC&source=kp_book_description)
 
 
-## [Fiction Candidate 1] Klara and the Sun, by Kazuo Ishiguro
+## [Fiction 1, 249 pages] Klara and the Sun, by Kazuo Ishiguro
 
 ![cover](https://m.media-amazon.com/images/P/059331817X.01._SCLZZZZZZZ_SX500_.jpg)
-(249 pages)
 
 > NEW YORK TIMES BESTSELLER
 > A GOOD MORNING AMERICA Book Club Pick!
@@ -113,10 +108,9 @@ Will notify the WeChat Group as soon as the decision is made.
 
 - [Readers' Guide](https://www.penguinrandomhouse.com/books/653825/klara-and-the-sun-by-kazuo-ishiguro/9780593318171/readers-guide/)
 
-## [Fiction Candidate 2] Mr Penumbra's 24-hour Bookstore, by Robin Sloan
+## [Fiction 2, 257 pages] Mr Penumbra's 24-hour Bookstore, by Robin Sloan
 
 ![cover](https://m.media-amazon.com/images/I/51IAJUfWxYL._SY346_.jpg)
-(257 pages)
 
 > Mr. Penumbra's 24-Hour Bookstore is a 2012 novel by American writer Robin Sloan. It was chosen as one of the best 100 books of 2012 by the San Francisco Chronicle,[1] was a New York Times Editor's Choice,[2] and was on the New York Times Hardcover Fiction Best Seller list[3] as well as the NPR Hardcover Fiction Bestseller List.[4] The US book cover, which glows in the dark, was done by Rodrigo Corral and chosen as one of the 25 best book covers for 2012 by BookPage.[5][6][7]
 > 
@@ -128,9 +122,8 @@ Will notify the WeChat Group as soon as the decision is made.
 > 
 > Source: [Amazon](https://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel-ebook/dp/B008FPOIT6/)
 
-## [Fiction Candidate 3] A Short History of Tractors in Ukrainian, by Tanika Gupta
+## [Fiction 3, 112 pages] A Short History of Tractors in Ukrainian, by Tanika Gupta
 ![cover](https://m.media-amazon.com/images/I/41C6mxWqqhL.jpg)
-(112 pages)
 
 > A Short History of Tractors in Ukrainian is a humorous novel by Marina Lewycka, first published in 2005 by Viking (Penguin Books).[1]
 > 
