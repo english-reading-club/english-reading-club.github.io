@@ -13,5 +13,8 @@ toc: true
 
 # Next session
 
-- Homework: Finish the ?nd chapter
-- Host Volunteer: foo & bar
+- Homework
+  - Ch?
+- Host Volunteer
+  - foo
+  - bar
