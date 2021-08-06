@@ -78,6 +78,21 @@ Will notify the WeChat Group as soon as the decision is made.
 > 
 > Source: [Amazon](https://www.amazon.com/dp/B005GG0MXI/)
 
+
+## [Non-fiction Candidate 4] Crucial Conversations: Tools for Talking When Stakes are High, by Kerry Patterson, Al Switzler, Joseph Grenny, Ron McMillan 
+
+![cover](https://m.media-amazon.com/images/P/B005K0AYH4.01._SCLZZZZZZZ_SX500_.jpg)
+(273 pages)
+
+> **The New York Times and Washington Post bestseller that changed the way millions communicate**
+> 
+> “[Crucial Conversations] draws our attention to those defining moments that literally shape our lives, our relationships, and our world. . . . This book deserves to take its place as one of the key thought leadership contributions of our time.”
+> 
+> **—from the Foreword by Stephen R. Covey, author of The 7 Habits of Highly Effective People**
+> 
+> Source: [Google Book](https://books.google.com/books/about/Crucial_Conversations_Tools_for_Talking.html?id=SDXVHRSFVMoC&source=kp_book_description)
+
+
 ## [Fiction Candidate 1] Klara and the Sun, by Kazuo Ishiguro
 
 ![cover](https://m.media-amazon.com/images/P/059331817X.01._SCLZZZZZZZ_SX500_.jpg)
