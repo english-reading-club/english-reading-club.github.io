@@ -1,5 +1,5 @@
 ---
-title: "Book 17 Session 13"
+title: "Book 18 Session 13"
 date: 2021-07-28T23:01:31+08:00
 host: "Jizu"
 author: "Jizu"
