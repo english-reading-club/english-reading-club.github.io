@@ -40,4 +40,5 @@ toc: true
   - Ch39
   - Ch40
 - Host Volunteer
+  - Shuuka
   - Jizu
