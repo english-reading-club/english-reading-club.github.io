@@ -10,6 +10,17 @@ toc: true
 
 # Notes
 
+## Chapter 38: Family
+
+[Summary & Analysis](https://www.litcharts.com/lit/educated/chapter-38-family)
+
+- I'm failing PhD.
+- After work, we got tired and expect family members to understand us.
+- You should have strategy/tactics.
+- Chapter 38 strangers and pilgrims
+
+
+
 ## Chapter 39
 
 [Summary & Analysis](https://www.litcharts.com/lit/educated/chapter-39-watching-the-buffalo)
@@ -18,6 +29,9 @@ toc: true
 
 [Summary & Analysis](https://www.litcharts.com/lit/educated/chapter-40-educated)
 
+> while she is not the child her father hoped to raise, he is the father that raised the person she has become.
+> Obligation
+> Process to cut from her family
 
 # Next session
 
