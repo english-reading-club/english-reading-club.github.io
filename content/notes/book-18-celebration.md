@@ -3,7 +3,7 @@ title: "Book 18 Celebration"
 date: 2021-09-01T12:35:38+08:00
 host: "Shuuka"
 author: "Jizu"
-participants: ["Hongyan", "Mia", "Shuuka", "Fenny"]
+participants: ["Mike", "Hongyan", "Mia", "Shuuka", "Fenny"]
 tags: ["Educated"]
 toc: true
 ---

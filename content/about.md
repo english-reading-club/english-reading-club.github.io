@@ -31,8 +31,8 @@ Please join [our distribution list](https://profiles.wdf.sap.corp/groups/60122e3
 ## Shanghai Reading Club history board:
 Click the book title to filter out related blogs!
 
-- 20th book [*Klara and the Sun*](/tags/klara-and-the-sun/) from Apr 28 2021
-- 19th book [*Crucial Conversations: Tools for Talking When Stakes are High*](/tags/crucial-conversations/) from Sep 2021
+- 20th book [*Klara and the Sun*](/tags/klara-and-the-sun/) from ??
+- 19th book [*Crucial Conversations: Tools for Talking When Stakes are High*](/tags/crucial-conversations/) from Sep ?? 2021
 - 18th book [*Educated: A Memoir*](/tags/educated/) from Apr 28 2021
 - 17th book [*The Sense of an Ending*](/tags/the-sense-of-an-ending/) from Feb 24, 2021
 - 16th book [*The 90 Day Life: How to Live More in 3 Months Than You Have in 3 Years*](/tags/the-90-day-life/) from Dec 2 2020  
