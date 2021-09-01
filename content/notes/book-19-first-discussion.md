@@ -4,7 +4,7 @@ date: 2021-08-25T12:32:22+08:00
 host: ""
 author: "Jizu"
 participants: ["Hongyan", "Mia", "Shuuka" ]
-tags: ["Crucial Conversation"]
+tags: ["Crucial Conversations"]
 toc: true
 ---
 
@@ -12,7 +12,7 @@ toc: true
 
 ## Shuuka
 
-1. 1-1  talk
+1. 1-1 talk
 2. KPI achieve
 3. salary
 4. with manager
