@@ -1,6 +1,6 @@
 ---
 title: "Book 19 Session 2"
-date: 2021-9-29T12:33:09+08:00
+date: 2021-09-29T12:33:09+08:00
 host: "Shuuka"
 author: "Jizu"
 participants: ["Hongyan", "Mia", "Shuuka", "Jenny", "Semantha"]
