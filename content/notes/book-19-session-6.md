@@ -9,9 +9,8 @@ toc: true
 ---
 
 # Notes
-
-## Apologies
-- unconditional
+## Ch5
+- Apologies should be unconditional
 
 # Next session
 
