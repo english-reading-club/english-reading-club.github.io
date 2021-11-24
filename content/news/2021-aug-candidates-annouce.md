@@ -1,6 +1,7 @@
 ---
 title: "Announcement for our upcoming books"
 date: 2021-09-01T12:40:52+08:00
+tags: ["Announcement", "Klara and the Sun"]
 ---
 
 As voted in our wechat group with [our candidate list, May 2021](/news/2021-may-voting), our upcoming books are:
