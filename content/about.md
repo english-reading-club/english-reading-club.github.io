@@ -1,10 +1,11 @@
 ---
 title: "About"
+toc: true
 ---
 
 ![2020 summary photo](/2020-year-summary.jpg)
 
-## SAP English Reading Club 
+# SAP English Reading Club 
 
 
 > "The club is what it is because of the members. Lots of interesting, open discussions with a great group of people. The atmosphere is relaxed yet focused. You can tell that people really get into the books and give thought to what they're reading. Reading is also the best way to improve your English--whether you’re a native-speaker or not.”  (McMaster, Jeffrey)​
@@ -18,7 +19,7 @@ title: "About"
 > ![](/qrcode-wechat-group.png)
 
 
-## Want to join us?
+# Want to join us?
 
 It's never too late to join our English Reading Club!
 
@@ -28,7 +29,7 @@ Please join [our distribution list](https://profiles.wdf.sap.corp/groups/60122e3
 
 
 
-## Shanghai Reading Club history board:
+# Shanghai Reading Club history board:
 Click the book title to filter out related blogs!
 
 - 20th book [*Klara and the Sun*](/tags/klara-and-the-sun/) from ??
