@@ -1,9 +1,9 @@
 ---
 title: "Book 19 Session 10"
 date: 2021-11-24T12:08:58+08:00
-host: "Giselle"
+host: "Mia"
 author: "Jizu"
-participants: ["Hongyan", "Mia", "Shuuka" ]
+participants: ["Hongyan", "Mia", "Shuuka", "Matthew Hou" ]
 tags: ["Crucial Conversations"]
 toc: true
 ---
@@ -12,10 +12,11 @@ toc: true
 
 ## Chapter 9: Move to Action
 
+
+
 # Next session
 
 - Homework
-  - Ch?
+  - Ch10
 - Host Volunteer
-  - foo
-  - bar
+  - Hongyan
