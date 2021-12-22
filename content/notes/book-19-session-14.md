@@ -3,7 +3,7 @@ title: "Book 19 Session 14"
 date: 2021-12-22T12:55:53+08:00
 host: "Matthew"
 author: "Jizu"
-participants: ["Hongyan", "Mia", "Shuuka", "Giselle" ]
+participants: ["Hongyan", "Mia", "Shuuka", "Giselle", "Jizu", "Samantha" ]
 tags: ["Crucial Conversations"]
 toc: true
 ---
