@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Book 20 Session 1"
+date: 2021-12-29T12:20:25+08:00
 host: "Giselle"
 author: "Jizu"
 participants: ["Hongyan", "Mia", "Shuuka" ]
