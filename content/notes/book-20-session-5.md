@@ -18,12 +18,10 @@ toc: true
 - As we grow older, we lost
   - Curiosity
   - Imagination
-- 
 
 # Next session
 
 - Homework
-  - Ch?
+  - First part of Chapter 4, until "I turned to him with a smile and nodded"
 - Host Volunteer
-  - foo
-  - bar
+  - Jizu
